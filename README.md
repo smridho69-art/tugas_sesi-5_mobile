@@ -100,8 +100,8 @@ PemrogramanMobile_sesi5/
 
 | Keterangan | Informasi |
 |---|---|
-| Nama | Mochammad Nazib Hasannudin |
-| NPM | 41155050240027 |
+| Nama | Muhamad Ridho saputra |
+| NPM | 41155050240010 |
 | Mata Kuliah | Pemrograman Mobile |
 | Sesi | 5 |
 | Nama Project | TicTacToe |
